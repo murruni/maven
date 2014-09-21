@@ -1,0 +1,35 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+	<modelVersion>4.0.0</modelVersion>
+	<parent>
+		<groupId>org.uqbar-project</groupId>
+		<artifactId>uqbar-xtend-parent</artifactId>
+		<version>2.6.2</version>
+	</parent>
+	<groupId>edu.unsam.algo3.grupo4</groupId>
+	<artifactId>tp0-domain</artifactId>
+	<version>1.0.1</version>
+	<name>tp0-domain</name>
+	<description>¿Donde está Carmen Sandiego? (v2)</description>
+	<developers>
+		<developer>
+			<name>Cristian Squef</name>
+			<email>cristiansquef@gmail.com</email>
+		</developer>
+		<developer>
+			<name>Pablo Murruni</name>
+			<email>murruni@gmail.com</email>
+		</developer>
+		<developer>
+			<name>Rodolfo Macchia</name>
+			<email>rgmacchia@gmail.com</email>
+		</developer>
+	</developers>
+	<dependencies>
+		<dependency>
+			<groupId>org.uqbar-project</groupId>
+			<artifactId>arena-jface</artifactId>
+			<version>3.3-SNAPSHOT</version>
+		</dependency>
+	</dependencies>
+</project>
